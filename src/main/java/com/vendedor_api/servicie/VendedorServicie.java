@@ -1,5 +1,5 @@
 package com.vendedor_api.servicie;
 
-public class VendedorServicie {
+public class VendedorServicie { hola
 
 }
